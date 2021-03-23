@@ -9,11 +9,13 @@
         <hr /> 
         <hr /> 
         <hr /> 
-        <hr />  
+        <hr /> 
+ 	<hr /> 
+	<hr /> 
         <p> <del> There are <b>FOUR </b>horizontal lines</del> </p>
         <p> <em> You are wrong ... </em></p>
         <p> There are <b>FIVE </b>horizontal lines </p>
-        <p> <em> Yeess!  This is correct! </em></p>
+        <p> <em> Yes!  This is correct! </em></p>
         
     </body>
 </html>
